@@ -19,3 +19,10 @@ This Python script takes a user input, manipulates it in a curious way, and gene
 # Notes
 - The manipulation is intended for fun and demonstration purposes.
 - Feel free to experiment with different input values to see how the generated face changes.
+
+## Authorship
+A code project by Wong Jo-Hann
+
+Creative Computing BSc class
+
+UAL CCI University Of the Arts London
